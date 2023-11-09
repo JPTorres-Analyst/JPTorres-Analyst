@@ -9,4 +9,4 @@
 
 - Google Data Analytics Certificate -->https://coursera.org/share/6464a7e1237a02e17575e199768211a8
 
-🔭 I’m currently working on other data analysis projects that align with my interests and that allow me to keep my data analysis skills in practice.
+🔭 I’m currently working on other Data Analysis projects that align with my interests and that allow me to keep my data analysis skills in practice.
