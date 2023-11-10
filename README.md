@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Data Analysis Final Project (Fitness Tracking Devices Dataset)</b>
+  - [Capstone Project- Data Analysis Certificate](https://github.com/JPTorres-Analyst/How-Can-a-Wellness-Technology-Company-Play-It-Smart-)
 
 <h2>📑 Certifications</h2>
 
