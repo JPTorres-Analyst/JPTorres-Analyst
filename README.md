@@ -18,7 +18,7 @@
 
 👀 Engaging content. <br>
 
-🔬 Editing and content search.<br>
+🔬 Editing and content research.<br>
 
 📺 Mutiple platforms.<br>
 
